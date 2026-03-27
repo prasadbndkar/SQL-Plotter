@@ -1,4 +1,4 @@
-# MultiAgentSystems (Under Development)
+# SQL-Plotter (Under Development)
 This is Multi Agentic System which queries the SQL database and plots the visualization using Matplotlib based on the User Queries
 
 This comprises of two Agents
